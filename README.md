@@ -18,7 +18,7 @@ $ jupyter notebook
 
 ## Share it
 
-Use [this link](https://github.com/johnenriquez/predicting_pulsars/blob/master/predicting_pulsars.ipynb) to the notebook for sharing.
+Use [this link to the notebook](https://github.com/johnenriquez/predicting_pulsars/blob/master/predicting_pulsars.ipynb) for sharing.
 
 ## Data Reference
 
