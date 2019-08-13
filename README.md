@@ -23,3 +23,5 @@ Use [this link to the notebook](https://github.com/johnenriquez/predicting_pulsa
 ## Data Reference
 
 The [data](https://archive.ics.uci.edu/ml/datasets/HTRU2#) is pulled from the UCI Machine Learning Database.
+
+M. J. Keith et al., 'The High Time Resolution Universe Pulsar Survey - I. System Configuration and Initial Discoveries',2010, Monthly Notices of the Royal Astronomical Society, vol. 409, pp. 619-627. DOI: 10.1111/j.1365-2966.2010.17325.x
